@@ -1,0 +1,12 @@
+Here's where you are, roughly speaking. There's something in the world called "RubyMotion" that you heard about somewhere. Personally, I read about it on Hacker News when Laurent Sansonetti first announced it. I bought a copy of it. I got it on sale, but now it costs $199.99, which is kind of a stupid looking price in my opinion.
+
+A first question you might ask is: is it worth to plunk down $199.99 to buy this piece of software, based on whatever articles you've read. This is a hard question, and the answer depends on your budget and needs.
+
+- The Apple Developer license costs $99 / year. You still need to do this.
+- You need to have an Apple computer to work on, which will cost a few thousand dollars.
+- You also probably need some devices, which cost some more.
+
+So, from a hard costs perspective, RubyMotion doesn't add that much more to the cost of development.
+
+Life would be really awesome if the RubyMotion folks could figure out how to give away the product and sell support or something. But it is what it is.
+
